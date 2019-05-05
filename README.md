@@ -1,9 +1,6 @@
-Political Campaign
+# Political Campaign
 
-Creating objects within objects.
-
-Changing content within the object.
-
-Creating function to push to object with an empty array.
-
-Creating function to list key in.
+1. Creating objects within objects.
+1. Changing content within the object.
+1. Creating function to push to object with an empty array.
+1. Creating function to list key in.
